@@ -1,0 +1,14 @@
+order_id: 1
+book_id: 1
+shop_id: 1
+book_quantity: 5
+---
+order_id: 2
+book_id: 2
+shop_id: 3
+book_quantity: 3
+---
+order_id: 3
+book_id: 5
+shop_id: 2
+book_quantity: 4

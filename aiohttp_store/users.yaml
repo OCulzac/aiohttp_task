@@ -1,0 +1,15 @@
+last_name: "Doe"
+first_name: "John"
+email: johndoe@mail.com
+---
+last_name: "Doe"
+first_name: "Jane"
+email: janedoe@mail.com
+---
+last_name: "Chinaman"
+first_name: "John"
+email: johnchinaman@mail.com
+---
+last_name: "Chinaman"
+first_name: "Jane"
+email: johndoe@mail.com

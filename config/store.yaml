@@ -1,0 +1,8 @@
+postgres:
+  database: qdyedzyr
+  user: qdyedzyr
+  password: IGBIOaocHxVayr5x0oDUdYyewF4gAKdK
+  host: suleiman.db.elephantsql.com
+  port: 5432
+  minsize: 1
+  maxsize: 5

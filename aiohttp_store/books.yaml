@@ -1,0 +1,20 @@
+name: "An Introduction to Statistical Learning: with Applications in R"
+author: Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+release_date: 2013-01-01
+---
+name: "The Elements of Statistical Learning: Data Mining, Inference and Prediction"
+author: Trevor Hastie, Robert Tibshirani, Jerome Friedman
+release_date: 2009-01-01
+---
+name: "Pattern Recognition and Machine Learning"
+author: Christopher Bishop
+release_date: 2011-04-06
+---
+name: "Machine Learning: A Probabilistic Perspective"
+author: Kevin Murphy
+release_date: 2012-08-24
+---
+name: "Deep Learning"
+author: Ian Goodfellow, Yoshua Bengio, Aaron Courville, Francis Bach
+release_date: 2016-10-08-2016
+
